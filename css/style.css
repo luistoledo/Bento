@@ -33,6 +33,14 @@
     }
 }
 
+/* Matcha theme  */
+.matchatheme {
+    --accent: #c1ecac;
+    --bg: #f5f5f5;
+    --sbg: #e4e6e6;
+    --fg: #7a8c70;    
+}
+
 /* Dark theme  */
 .darktheme {
     --accent: #186efd60;
